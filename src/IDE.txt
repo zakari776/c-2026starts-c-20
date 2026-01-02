@@ -1,0 +1,4 @@
+There are many ide but I recomennde Clion and visual studio
+for 32 ram go to Clion corss paltform build 
+for 8 -16 ram go with visual studio
+ssd is very helpful and modern cpu multi core
